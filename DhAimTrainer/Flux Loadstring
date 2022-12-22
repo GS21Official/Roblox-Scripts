@@ -1,1 +1,8 @@
-
+--// DaHood Aim Trainer 
+getgenv().Settings = {
+    ["Flux by GS21"] = {
+        AntiStomp_Key = "v",
+        WalkSpeed_Key = "z",
+        AutoStomp_Key = "c",
+    }
+}
